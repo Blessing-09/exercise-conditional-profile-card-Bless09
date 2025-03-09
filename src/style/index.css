@@ -92,6 +92,7 @@
 }
 .widget ul li:hover > a {
   background-color: #2cd5ca;
+  transform: scale(1.5, 1.5);
 }
 .widget ul li:first-child > a {
   border-radius: 0 3px 0 0;
